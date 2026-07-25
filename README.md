@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=normal-repo" alt="normal-repo" /> </p>
 
-- 🔭 I’m currently working on **REINFORCED PREFERENCE OPTIMIZATION FOR REC OMMENDATION**
-
 - 🌱 I’m currently learning **LLangChain, LLM fine-tuning, and Retrieval-Augmented Generation (RAG)**
 
 - 👯 I’m looking to collaborate on **LLM-based Recommendation Systems / Generative AI Projects**
